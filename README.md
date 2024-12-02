@@ -15,7 +15,7 @@ MARKDOWN_20241202
 | 데이터7 | 데이터8 | 데이터9 |
 
 ### 8. 이미지
-`이미지는 ![이미지 텍스트](이미지URL)`
+`이미지는 ![이미지 텍스트](이미지URL)`  
 ![Casting](https://github.com/aououay/MARKDOWN_20241202/blob/main/casting.png)
 
 ### 7. 강조(Emphasis)
